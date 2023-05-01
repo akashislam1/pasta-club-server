@@ -7,12 +7,18 @@ const chefData = require("./data/chef.json");
 
 app.use(cors());
 
+app.get("/", (req, res) => {
+  res.send("The Pasta People  Server!");
+});
+
 app.get("/chefdata", (req, res) => {
   res.send(chefData);
 });
 
-app.get("/", (req, res) => {
-  res.send("The Pasta People  Server!");
+app.get("/chefdata/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chefData.find((d) => d.chef_id == id);
+  res.send(selectedChef);
 });
 
 app.listen(port, () => {
