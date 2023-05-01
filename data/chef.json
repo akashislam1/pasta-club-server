@@ -1,0 +1,344 @@
+[
+  {
+    "chef_id": 1,
+    "chef_picture": "https://i.ibb.co/S7Q3kkz/chef1.webp",
+    "chef_name": "Giuseppe Rossi",
+    "years_of_experience": 15,
+    "nationality": "Italian",
+    "specialty": "Pasta",
+    "bio": "Giuseppe Rossi is an Italian chef with over 15 years of experience in Italian cuisine...",
+    "numbers_of_recipes": 10,
+    "likes": 25000,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "parmesan cheese",
+          "garlic",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package directions, drain and set aside...\n6. Serve immediately, topped with additional parmesan cheese and black pepper.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+          "pasta",
+          "basil",
+          "pine nuts",
+          "garlic",
+          "parmesan cheese",
+          "olive oil"
+        ],
+        "cooking_method": "1. Cook pasta according to package directions, drain and set aside...\n5. Serve immediately, topped with additional parmesan cheese if desired.",
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Lasagna Bolognese",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "tomato sauce",
+          "bechamel sauce",
+          "ricotta cheese",
+          "mozzarella cheese",
+          "parmesan cheese",
+          "garlic",
+          "onion",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. Cook lasagna noodles according to package directions, drain and set aside...\n7. Cover with aluminum foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes, until cheese is golden brown and bubbly.\n8. Let cool for 10 minutes before serving.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "chef_id": 2,
+    "chef_picture": "https://i.ibb.co/H7bjjG7/chef2.jpg",
+    "chef_name": "Maria Bianchi",
+    "years_of_experience": 12,
+    "nationality": "Italian",
+    "specialty": "Pizza",
+    "bio": "Maria Bianchi is an Italian chef with over 12 years of experience in Italian cuisine...",
+    "numbers_of_recipes": 8,
+    "likes": 20000,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. Roll out pizza dough on a floured surface to desired thickness...\n6. Bake in preheated oven for 10-15 minutes, or until crust is golden brown and cheese is melted and bubbly.",
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Calzone",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "ham",
+          "mushrooms",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. Roll out pizza dough on a floured surface to desired thickness...\n6. Bake in preheated oven for 15-20 minutes, or until crust is golden brown and filling is hot and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Pizza Capricciosa",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "ham",
+          "mushrooms",
+          "artichokes",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. Roll out pizza dough on a floured surface to desired thickness...\n6. Bake in preheated oven for 10-15 minutes, or until crust is golden brown and cheese is melted and bubbly.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "chef_id": 3,
+    "chef_picture": "https://i.ibb.co/b7v0BsW/chef3.jpg",
+    "chef_name": "Riccardo Esposito",
+    "years_of_experience": 8,
+    "nationality": "Italian",
+    "specialty": "Seafood",
+    "bio": "Riccardo Esposito is an Italian chef with over 8 years of experience in Italian cuisine...",
+    "numbers_of_recipes": 12,
+    "likes": 18000,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Linguine alle Vongole",
+        "ingredients": [
+          "linguine",
+          "clams",
+          "white wine",
+          "garlic",
+          "olive oil",
+          "parsley"
+        ],
+        "cooking_method": "1. Cook linguine according to package directions, drain and set aside...\n5. Serve immediately, garnished with additional parsley if desired.",
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Calamari Fritti",
+        "ingredients": [
+          "calamari",
+          "flour",
+          "cornmeal",
+          "salt",
+          "olive oil",
+          "lemon wedges"
+        ],
+        "cooking_method": "1. In a large bowl, mix together flour, cornmeal, and salt...\n5. Serve hot with lemon wedges.",
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Shrimp Scampi",
+        "ingredients": [
+          "shrimp",
+          "linguine",
+          "butter",
+          "garlic",
+          "white wine",
+          "lemon juice",
+          "parsley",
+          "red pepper flakes"
+        ],
+        "cooking_method": "1. Cook linguine according to package directions, drain and set aside...\n7. Serve immediately, garnished with additional parsley and red pepper flakes if desired.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": 4,
+    "chef_picture": "https://i.ibb.co/MkyKHjd/chef4.jpg",
+    "chef_name": "Lorenzo Amoretti",
+    "years_of_experience": 10,
+    "nationality": "Italian",
+    "specialty": "Desserts",
+    "bio": "Lorenzo Amoretti is a talented Italian pastry chef with over 10 years of experience...",
+    "numbers_of_recipes": 8,
+    "likes": 12000,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "coffee",
+          "cocoa powder"
+        ],
+        "cooking_method": "1. Brew coffee and let cool...\n7. Cover with plastic wrap and chill in the refrigerator for at least 2 hours before serving.",
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Panna Cotta",
+        "ingredients": [
+          "heavy cream",
+          "sugar",
+          "gelatin",
+          "vanilla extract",
+          "fresh berries"
+        ],
+        "cooking_method": "1. In a saucepan, combine heavy cream, sugar, and vanilla extract...\n6. Chill in the refrigerator for at least 2 hours, or until set.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Cannoli",
+        "ingredients": [
+          "flour",
+          "sugar",
+          "butter",
+          "white wine",
+          "cinnamon",
+          "ricotta cheese",
+          "powdered sugar",
+          "chocolate chips"
+        ],
+        "cooking_method": "1. In a large bowl, whisk together flour and sugar...\n10. Chill in the refrigerator for at least 30 minutes before serving.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "chef_id": 5,
+    "chef_picture": "https://i.ibb.co/Z2gjFZF/chef5.webp",
+    "chef_name": "Emilia Rossi",
+    "years_of_experience": 12,
+    "nationality": "Italian",
+    "specialty": "Vegetarian",
+    "bio": "Emilia Rossi is a renowned Italian chef with over 12 years of experience in vegetarian cuisine...",
+    "numbers_of_recipes": 15,
+    "likes": 22000,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+          "pasta",
+          "basil leaves",
+          "pine nuts",
+          "garlic",
+          "olive oil",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook pasta according to package directions, drain and set aside...\n5. Serve hot, garnished with additional parmesan cheese and pine nuts.",
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Eggplant Parmesan",
+        "ingredients": [
+          "eggplant",
+          "flour",
+          "eggs",
+          "breadcrumbs",
+          "tomato sauce",
+          "mozzarella cheese",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. Slice eggplant into rounds, about 1/2 inch thick...\n7. Bake in preheated oven for 25-30 minutes, or until cheese is melted and bubbly.",
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "tomatoes",
+          "mozzarella cheese",
+          "basil leaves",
+          "balsamic vinegar",
+          "olive oil"
+        ],
+        "cooking_method": "1. Slice tomatoes and mozzarella cheese into rounds, about 1/4 inch thick...\n4. Drizzle with balsamic vinegar and olive oil, then garnish with fresh basil leaves.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": 6,
+    "chef_picture": "https://i.ibb.co/QDzSRnK/chef6.webp",
+    "chef_name": "Luigi Bianchi",
+    "years_of_experience": 8,
+    "nationality": "Italian",
+    "specialty": "Seafood",
+    "bio": "Luigi Bianchi is a talented Italian chef with 8 years of experience in preparing seafood dishes...",
+    "numbers_of_recipes": 12,
+    "likes": 18000,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Linguine alle Vongole",
+        "ingredients": [
+          "linguine",
+          "clams",
+          "garlic",
+          "olive oil",
+          "white wine",
+          "parsley"
+        ],
+        "cooking_method": "1. Cook linguine in a pot of salted boiling water, according to package directions, and drain...\n6. Serve hot, garnished with fresh parsley.",
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Grilled Octopus",
+        "ingredients": [
+          "octopus",
+          "lemon",
+          "olive oil",
+          "garlic",
+          "rosemary",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat grill to medium-high heat. Rinse octopus under cold running water...\n6. Serve hot, garnished with fresh lemon wedges and rosemary sprigs.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Seafood Risotto",
+        "ingredients": [
+          "arborio rice",
+          "shrimp",
+          "scallops",
+          "calamari",
+          "mussels",
+          "onion",
+          "garlic",
+          "white wine",
+          "parmesan cheese",
+          "lemon juice"
+        ],
+        "cooking_method": "1. In a large pot, heat olive oil over medium heat. Add onion and garlic and cook until translucent...\n9. Serve hot, garnished with fresh parsley and lemon wedges.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
